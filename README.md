@@ -1,3 +1,5 @@
+[![GIF](https://media.discordapp.net/attachments/777942258569576468/975269689544552478/joe.gif "GIF")](https://media.discordapp.net/attachments/777942258569576468/975269689544552478/joe.gif "GIF")
+
 ##  💭 Inspiration 💭
 I was playing a typing test with my friends for inspiration on what to do for the hackathon and I had thought "what if If I try and do this but for characters instead of words". After attempting to do that, I had tweaked and improved the game to be simultaneous and train more then just your typing ability, but your reaction time, speed and accuracy as well.
 	
