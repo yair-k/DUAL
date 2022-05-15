@@ -1,5 +1,5 @@
 ##  💭 Inspiration 💭
-	I was playing a typing test with my friends for inspiration on what to do for the hackathon and I had thought "what if If I try and do this but for characters instead of words". After attempting to do that, I had tweaked and improved the game to be simultaneous and train more then just your typing ability, but your reaction time, speed and accuracy as well.
+I was playing a typing test with my friends for inspiration on what to do for the hackathon and I had thought "what if If I try and do this but for characters instead of words". After attempting to do that, I had tweaked and improved the game to be simultaneous and train more then just your typing ability, but your reaction time, speed and accuracy as well.
 	
 
 ------------
@@ -14,7 +14,7 @@ When building this website, I used *Visual Studio 2020*, as well as these langua
 	- JavaScript
 	- React
 	- Styled-Components
-	 - NPM (For localhosting)
+	- NPM (For localhosting)
 
 ------------
 
