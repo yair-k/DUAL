@@ -9,12 +9,12 @@ Dual is a fun game that strives to help you improve your typing ability, accurac
 ------------
 ## 🔨 How I built it 🔨
 When building this website, I used *Visual Studio 2020*, as well as these languages/frameworks:
-	- HTML
-	- CSS
-	- JavaScript
-	- React
-	- Styled-Components
-	- NPM (For localhosting)
+	* HTML
+	* CSS
+	* JavaScript
+	* React
+	* Styled-Components
+	* NPM (For localhosting)
 
 ------------
 
