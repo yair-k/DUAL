@@ -4,11 +4,10 @@
 I was playing a typing test with my friends for inspiration on what to do for the hackathon and I had thought "what if If I try and do this but for characters instead of words". After attempting to do that, I had tweaked and improved the game to be simultaneous and train more then just your typing ability, but your reaction time, speed and accuracy as well.
 	
 
-------------
 ## 🤔 What it does 🤔
 Dual is a fun game that strives to help you improve your typing ability, accuracy, speed as well as consistency.
 
-------------
+
 ## 🔨 How I built it 🔨
 When building this website, I used *Visual Studio 2020*, as well as these languages/frameworks:
 	* HTML
@@ -23,7 +22,7 @@ When building this website, I used *Visual Studio 2020*, as well as these langua
 	
 	* NPM (For localhosting)
 
-------------
+
 
 ## ⏭ What's next for DUAL ⏭
 My next goals are to add Multiplayer, High Schores, Support for changing which keys are needed to type with and how many to be used (etc, ESDF or number rows) as well as adding training/practice modes.
